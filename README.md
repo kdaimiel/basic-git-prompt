@@ -9,7 +9,7 @@ Prompt will add branch name under a git repository. For example:
 
 
 Git status is based on colors:
-- <span style="color:red">(master)</span> Local repository has commits to be push.
+- <span style="color:red">(master)</span> Local repository has commits to be published.
 - <span style="color:yellow">(master)</span> Local repository has changes to be committed.
 - <span style="color:blue">(master)</span> Local repository has differences.
 - <span style="color:cyan">(master)</span> Local repository has untracked files.
